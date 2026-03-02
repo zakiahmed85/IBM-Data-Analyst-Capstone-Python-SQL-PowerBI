@@ -1,0 +1,16 @@
+# Jupyter Notebook
+# ----------------------
+.ipynb_checkpoints
+
+# Database files
+# ----------------------
+*.db
+
+# Data folders
+# ----------------------
+data/
+
+# Large files
+#--------------
+
+*.csv
